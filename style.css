@@ -1,0 +1,25 @@
+img {
+    width: 350px;
+    height: 350px;
+}
+body {
+    text-align: center;
+}
+div{
+    background-color: beige;
+}
+#m1 {
+    color:hotpink;
+    font-family: papyrus;
+}
+hr {
+    width: 100px;
+    height: 3px;
+    background-color: black;
+}
+#abc {
+    background-color: cadetblue;
+}
+h1 {
+    font-family:monospace;
+}
